@@ -10,6 +10,8 @@ List of Labs
 
 3.Finding Missing Values
 
+4.Impute Missing Values
+
 Introduction
 
 
@@ -53,3 +55,12 @@ In  Lab 8 - Finding Missing Values, you will perform the following:
 2-Quantify missing values for specific columns.
 
 3-Impute missing values using various strategies.
+
+
+In Lab 9 - Impute Missing Values, you will perform the following:
+
+1-Identify missing values in the dataset.
+
+2-Apply techniques to impute missing values in the dataset.
+
+3-Use suitable techniques to normalize data in the dataset.
