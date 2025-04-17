@@ -17,19 +17,22 @@ Objectives
 In Lab Finding Duplicates, you will perform the following:
 
 
-Identify duplicate rows in the dataset and analyze their characteristics.
-Visualize the distribution of duplicates based on key attributes.
-Remove duplicate values strategically based on specific criteria.
-Outline the process of verifying and documenting duplicate removal.
+1-Identify duplicate rows in the dataset and analyze their characteristics.
+
+2-Visualize the distribution of duplicates based on key attributes.
+
+3-Remove duplicate values strategically based on specific criteria.
+
+4-Outline the process of verifying and documenting duplicate removal.
 
 
 
 In Lab 7-Removing Duplicates,you will perform the following:
 
-Identify duplicate rows in the dataset.
+1-Identify duplicate rows in the dataset.
 
-Use suitable techniques to remove duplicate rows and verify the removal.
+2-Use suitable techniques to remove duplicate rows and verify the removal.
 
-Summarize how to handle missing values appropriately.
+3-Summarize how to handle missing values appropriately.
 
-Use ConvertedCompYearly to normalize compensation data.
+4-Use ConvertedCompYearly to normalize compensation data.
