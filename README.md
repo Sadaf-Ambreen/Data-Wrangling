@@ -4,11 +4,11 @@ Data Wrangling
 List of Labs
 
 
-# Dinding Duplicates
+1.Finding Duplicates
 
-#Removing Duplicates
+2.Removing Duplicates
 
-#Finding Missing Values
+3.Finding Missing Values
 
 Introduction
 
