@@ -1,7 +1,13 @@
+Data Wrangling 
+List of Labs
+
 # Finding-Duplicates-Lab
 
-Introduction
+#Removing Duplicates
 
+#Finding Missing Values
+
+Introduction
 
 
 Data wrangling is a critical step in preparing datasets for analysis, and handling duplicates plays a key role in ensuring data 
@@ -36,3 +42,12 @@ In Lab 7-Removing Duplicates,you will perform the following:
 3-Summarize how to handle missing values appropriately.
 
 4-Use ConvertedCompYearly to normalize compensation data.
+
+
+In  Lab 8 - Finding Missing Values, you will perform the following:
+
+1-Identify missing values in the dataset.
+
+2-Quantify missing values for specific columns.
+
+3-Impute missing values using various strategies.
