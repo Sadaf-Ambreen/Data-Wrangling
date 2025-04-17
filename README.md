@@ -13,9 +13,8 @@ List of Labs
 Introduction
 
 
-Data wrangling is a critical step in preparing datasets for analysis, and handling duplicates plays a key role in ensuring data 
-
-accuracy. In this lab, you will focus on identifying and removing duplicate entries from your dataset.
+* Data wrangling is a critical step in preparing datasets for analysis, and handling duplicates plays a key role in ensuring data accuracy.
+* Data wrangling is the process of cleaning, transforming, and organizing data to make it suitable for analysis. Finding and handling missing values is a crucial step in this process to ensure data accuracy and completeness. 
 
 
 
