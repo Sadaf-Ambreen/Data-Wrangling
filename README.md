@@ -1,7 +1,10 @@
 Data Wrangling 
+
+
 List of Labs
 
-# Finding-Duplicates-Lab
+
+# Dinding Duplicates
 
 #Removing Duplicates
 
